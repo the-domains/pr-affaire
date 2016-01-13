@@ -1,0 +1,28 @@
+name: PR-AFFAIRE
+favicon: null
+layout_spectrum: 0.002684106817469001
+typography_spectrum: 0.8988367421552539
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.39859860111027956
+  lightness: 0.6873004878871143
+  saturation: 0.8951002655085176
+  rhythmicContrast: 0.277641513152048
+purpose: []
